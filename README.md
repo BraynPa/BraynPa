@@ -2,7 +2,7 @@
 <h2>Backend Enthusiast 💻 | Aspiring Full Stack Developer 🌐</h2>
 
 ### About Me
-- I am 24 years old and I am from Cajamarca, Peru.
+- I am 24 years old and I am from Cajamarca, Perú.
 - I'm a passionate **backend developer** in training, exploring the vast world of coding.
 - My focus is on creating efficient, scalable, and secure backend systems.
 - I also enjoy working on frontend projects to bring a complete experience to users.
