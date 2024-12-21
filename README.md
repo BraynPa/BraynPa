@@ -12,7 +12,7 @@
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![.NET](https://img.shields.io/badge/-dotNET-333333?style=flat&logo=.net)
+  ![.NET]
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Livewire](https://img.shields.io/badge/-Livewire-333333?style=flat&logo=laravel)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
