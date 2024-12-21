@@ -47,7 +47,7 @@
 
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/brayan-emilio-pajares-casas-9256042a8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brayan%Pajares-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/brayan-emilio-pajares-casas-9256042a8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brayan%20Pajares-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:pajarescasasemilio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-pajarescasasemilio@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
