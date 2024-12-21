@@ -45,8 +45,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BraynPa&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BraynPa&theme=radical)  
 
-### GitHub Stats
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=BraynPa&show_icons=true&theme=radical)
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/brayan-emilio-pajares-casas-9256042a8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brayan%Pajares-blue?style=flat-square&logo=linkedin"></a>
